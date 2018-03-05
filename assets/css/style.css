@@ -761,8 +761,10 @@ footer{
         width: 665px;
     }
 }
-    
 
+@media screen and (max-width: 768px) {
+    
+}
 
 
 
