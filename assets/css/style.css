@@ -240,7 +240,7 @@ li {
     font-family: georgia, times, 'times new roman', serif;
 }
 
-#travisInfo {
+#giphy-api {
     width: 250px;
     height: 180px;
     border: 1px #777777 solid;
@@ -251,7 +251,7 @@ li {
     left: 50px
 }
 
-#travisInfoBox {
+#giphy-api-box {
     background-color: #4aaaa5;
     background-clip: border-box;
     width: 252px;
@@ -265,10 +265,10 @@ li {
     border: 0 1px #777777 solid;
 }
 
-#travisInfoText {
+#giphy-api-text {
     position: absolute;
     bottom: -10px;
-    left: 25px;
+    left: 55px;
     font-size: 21px;
     color: #ffffff;
     font-family: georgia, times, 'times new roman', serif;
@@ -642,7 +642,7 @@ footer{
         font-family: georgia, times, 'times new roman', serif;
     }
     
-    #travisInfo {
+    #giphy-api {
         width: 490px;
         height: 295px;
         border: 1px #777777 solid;
@@ -652,7 +652,7 @@ footer{
         margin-left: -25px;
     }
     
-    #travisInfoBox {
+    #giphy-api-box {
         background-color: #4aaaa5;
         background-clip: border-box;
         width: 492px;
@@ -666,7 +666,7 @@ footer{
         border: 0 1px #777777 solid;
     }
     
-    #travisInfoText {
+    #giphy-api-text {
         margin-left: 75px;
         margin-bottom: 25px;
         font-size: 30px;
